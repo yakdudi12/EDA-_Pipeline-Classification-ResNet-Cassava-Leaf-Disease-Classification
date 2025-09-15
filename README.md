@@ -10,8 +10,7 @@ The dataset used is the **Cassava Leaf Disease Classification** dataset.
 ```
 📂 ResNet_Classification  
  ├── 📄 main_resnet_pipeline.py    # Main script (EDA + training + evaluation)  
- ├── 📄 README.md                  # This file   
- ├── 📄 best_model.pt              # Saved best model (macro F1 criterion)  
+ ├── 📄 README.md                  # This file     
  └── 📂 outputs                    # Training plots, confusion matrix, metrics  
 ```
 
@@ -149,4 +148,4 @@ Suggestions, improvements, or feedback are welcome!
 
 ## 📬 Contact
 
-**Britez Santiago** — [LinkedIn](https://www.linkedin.com)
+**Britez Santiago** — ([https://www.linkedin.com](https://www.linkedin.com/in/santiago-luis-britez-101a8a217/))
