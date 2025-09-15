@@ -26,7 +26,7 @@ pd.set_option("display.max_columns", None)
 pd.set_option("display.width", None)
 
 # ---------------------- CONFIG ---------------------- #
-DATA_ROOT = r"D:\Proyectos\Practica Prueba tecnicav1\cassava-leaf-disease-classification"
+DATA_ROOT = r""
 CSV_PATH  = os.path.join(DATA_ROOT, "train.csv")           # expected columns: image_id,label
 IMG_DIR   = os.path.join(DATA_ROOT, "train_images")        # images folder
 SAVE_BEST = os.path.join(DATA_ROOT, "best_model.pt")       # Where the model will be saved (F1-score metric)
@@ -462,4 +462,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
