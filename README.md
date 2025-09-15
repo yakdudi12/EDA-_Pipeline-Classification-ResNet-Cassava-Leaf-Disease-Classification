@@ -9,7 +9,7 @@ The dataset used is the **Cassava Leaf Disease Classification** dataset.
 
 ```
 📂 ResNet_Classification  
- ├── 📄 main_resnet_pipeline.py    # Main script (EDA + training + evaluation)  
+ ├── 📄 Cassava_leaf_classificationv1.py    # Main script (EDA + training + evaluation)  
  ├── 📄 README.md                  # This file     
  └── 📂 outputs                    # Training plots, confusion matrix, metrics  
 ```
