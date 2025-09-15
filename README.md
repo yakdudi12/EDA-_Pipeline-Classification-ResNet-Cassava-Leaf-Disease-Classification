@@ -150,7 +150,3 @@ Suggestions, improvements, or feedback are welcome!
 ## 📬 Contact
 
 **Britez Santiago** — [LinkedIn](https://www.linkedin.com)
-
----
-
-👉 Do you also want me to add a **Reproducible Recipe** code snippet at the end (showing the exact configs you used: backbone, loss, sampler, LR schedule, etc.) so anyone can replicate your results easily?
