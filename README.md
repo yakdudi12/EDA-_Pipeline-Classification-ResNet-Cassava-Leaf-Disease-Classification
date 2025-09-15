@@ -129,7 +129,9 @@ Outputs include:
 * Training history plots (loss, acc, F1)
 * **Confusion matrix**
 * **Per-class report** (precision, recall, F1)
-
+![Demo](outputs/results_metrics.png)
+![Demo](outputs/confusionmatrixresults.png)
+![Demo](outputs/predictionresults.png)
 ---
 
 ## ✒️ References
